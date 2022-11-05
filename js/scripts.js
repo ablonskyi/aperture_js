@@ -10,9 +10,9 @@ $('.owl-carousel').owlCarousel({
     autoplay: false,
     autoplayTimeout:3500,
     responsive:{
-        0:{
+        767:{
             items:1,
-            autoplay: false,
+            autoplay: true,
         },
         992:{
             items:2,
