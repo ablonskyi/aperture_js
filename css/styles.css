@@ -245,7 +245,7 @@ article .a_button a{
     padding: 0;
 }
 
- .ui-accordion-content{
+.ui-accordion-content{
     max-width: 1168px;
     display: flex;
     background: #000000;
@@ -842,7 +842,7 @@ body.light .switch-wrap p span:nth-child(1):before {
 }
 @media only screen and (max-width: 767px) {
     header .container, .what_we_do .container{
-       margin: 0 50px;
+        margin: 0 50px;
     }
     .what_we_do .container p{
         font-size: 15px;
