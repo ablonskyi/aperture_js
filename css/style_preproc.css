@@ -194,6 +194,8 @@ article .a_button {
   align-items: center;
   width: 100%;
   padding: 5px 4px;
+  border-radius: 14px;
+  background: white;
 }
 article .a_button a {
   display: flex;

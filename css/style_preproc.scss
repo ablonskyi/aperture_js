@@ -79,6 +79,7 @@ header{
 .a_button a{
   background: $white;
   color: black;
+
   &:hover{
     border: 1px solid $white;
     background: $main_color;
@@ -138,6 +139,7 @@ header{
     margin-top: 18px;
   }
 }
+
 .decor_delay, .decor_mode, .decor_iso, .decor_place{
   &:before{
     margin-right: 6px;
@@ -198,6 +200,8 @@ article{
     align-items: center;
     width: 100%;
     padding: 5px 4px;
+    border-radius: 14px;
+    background: white;
     a{
       @include flex;
       align-items: center;

@@ -223,6 +223,8 @@ article .a_button{
     width: 100%;
     box-sizing: border-box;
     padding: 5px 4px;
+    border-radius: 14px;
+    background: white;
 }
 
 article .a_button a:before{
